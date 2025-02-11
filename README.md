@@ -3,7 +3,7 @@
 **Your AI-Powered Cooking Assistant**  
 _A Perplexity Spaces Bot for Easy and Engaging Cooking Guidance_  
 
-![Project Thumbnail](https://img.shields.io/badge/AI%20Cooking%20Bot-Powered%20by%20Perplexity-brightgreen)  
+![Project Thumbnail]([https://img.shields.io/badge/AI%20Cooking%20Bot-Powered%20by%20Perplexity-brightgreen](https://www.perplexity.ai/collections/julias-culinary-companion-86WWlR0OR6.GFSMFsS4hIA))  
 [![YouTube Demo](https://img.shields.io/badge/Watch%20Demo%20on-YouTube-red)](https://youtu.be/Tu_ZKYymVU8?si=y9MGelJvU9c4M1vA)
 
 ## 📌 Overview
